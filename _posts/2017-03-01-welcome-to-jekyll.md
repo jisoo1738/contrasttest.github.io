@@ -3,9 +3,9 @@ title: "Welcome to Jekyll"
 layout: post
 ---
 
-# UDC-VIT
+## UDC-VIT
 
-# Spectral-Motion-Alignment
+## Spectral-Motion-Alignment
 This repository is the official implementation of [SMA](https://arxiv.org/abs/2403.15249).<br>
 **[SMA: Spectral Motion Alignment for Video Motion Transfer using Diffusion Models](https://arxiv.org/abs/2403.15249).** <br>
 [Geon Yeong Park*](https://geonyeong-park.github.io/),
