@@ -29,7 +29,7 @@ categories: media
   }
   th, td {
     border: none;
-    padding: 10px;
+    padding: 8px;
     text-align: center;
   }
   th {
@@ -44,14 +44,14 @@ categories: media
 
 <table>
   <tr>
-    <th>Dataset</th>
-    <th>Resolution</th>
-    <th>FPS</th>
-    <th>Total Videos</th>
-    <th>Train Videos</th>
-    <th>Val Videos</th>
-    <th>Test Videos</th>
-    <th>Frames per Video</th>
+    <th> Dataset </th>
+    <th> Resolution </th>
+    <th> FPS </th>
+    <th> Total Videos </th>
+    <th> Train Videos </th>
+    <th> Val Videos </th>
+    <th> Test Videos </th>
+    <th> Frames per Video </th>
   </tr>
   <tr>
     <td>UDC-VIT</td>
