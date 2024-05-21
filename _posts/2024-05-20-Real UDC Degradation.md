@@ -27,21 +27,24 @@ categories: media
 <div class="images-container">
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif">
-    <div>Input Video</div>
+    <div>Transmittance Decrease</div>
   </div>
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/shark.gif">
-    <div>Output Video</div>
+    <div>Noise</div>
   </div>
   <div style="text-align: center;">
-    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif"> <!-- Example image. Replace with your own image URL. -->
-    <div>Another Video</div> <!-- Example name. Replace with the appropriate name. -->
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif">
+    <div>Flare</div> 
   </div>
-</div>
-
-<div class="results-section">
-  ## results
-  여기에 결과 문구를 입력하세요.
+  <div style="text-align: center;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif">
+    <div>Blur caused by the UDC panel</div> 
+  </div>
+  <div style="text-align: center;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif">
+    <div>Motion Blur</div> 
+  </div>
 </div>
 
 
