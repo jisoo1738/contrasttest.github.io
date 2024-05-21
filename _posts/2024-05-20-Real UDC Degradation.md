@@ -37,6 +37,8 @@ categories: media
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif">
     <div>Flare</div> 
   </div>
+</div>
+<div class="images-container">
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif">
     <div>Blur caused by the UDC panel</div> 
@@ -46,6 +48,7 @@ categories: media
     <div>Motion Blur</div> 
   </div>
 </div>
+
 
 
 
