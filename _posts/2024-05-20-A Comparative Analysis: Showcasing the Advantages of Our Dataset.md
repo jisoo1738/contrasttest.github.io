@@ -84,11 +84,11 @@ categories: media
 </div>
 <div class="images-container">
   <div style="text-align: center;">
-    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 230px;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 250px;">
     <div>UDC-VIT (ours)</div>
   </div>
   <div style="text-align: center;">
-    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/shark.gif" style="max-width: 230px;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/shark.gif" style="max-width: 250px;">
     <div>VidUDC33K</div>
   </div>
 </div>
