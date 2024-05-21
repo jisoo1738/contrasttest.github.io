@@ -54,7 +54,7 @@ categories: media
     <th> Frames per Video </th>
   </tr>
   <tr>
-    <td>UDC-VIT</td>
+    <td>UDC-VIT (ours)</td>
     <td>1060x1900</td>
     <td>60</td>
     <td>659</td>
@@ -76,28 +76,7 @@ categories: media
 </table>
 
 
-<div class="images-container">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center;">
-      <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 230px;">
-      <div>Transmittance Decrease</div>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/shark.gif" style="max-width: 230px;">
-      <div>Noise</div>
-    </div>
-  </div>
-  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-    <div style="text-align: center;">
-      <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 230px;">
-      <div>Flare</div> 
-    </div>
-    <div style="text-align: center;">
-      <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 230px;">
-      <div>Blur caused by the UDC panel</div> 
-    </div>
-  </div>
-</div>
+
 
 
 
