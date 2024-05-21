@@ -54,7 +54,7 @@ categories: media
     <th> Frames per Video </th>
   </tr>
   <tr>
-    <td><strong>UDC-VIT</strong></td>
+    <td>UDC-VIT</td>
     <td>1060x1900</td>
     <td>60</td>
     <td>659</td>
