@@ -2,7 +2,7 @@
 title: "A Comparative Analysis: <br>Showcasing the Advantages of Our Dataset"
 layout: post
 categories: media
---- 
+---
 
 <style>
 /* Add some style to the images */
@@ -23,23 +23,28 @@ categories: media
   margin-top: 20px; /* Adjust the top margin as needed */
 }
 
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    padding: 8px;
-    text-align: center;
-  }
-  th {
-    background-color: #f2f2f2;
-  }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed; /* Ensures cells are equally spaced */
+}
+
+th, td {
+  padding: 4px; /* Reduce padding to make cells tighter */
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
 .dataset-column {
-    width: 25%;
-  }
-  .resolution-column {
-    width: 15%;
-  }
+  width: 25%;
+}
+
+.resolution-column {
+  width: 15%;
+}
 </style>
 
 <p style="color: #777;">
@@ -78,10 +83,6 @@ categories: media
     <td>50</td>
   </tr>
 </table>
-</table>
-
-
-
 
 <div class="images-container">
   <div style="text-align: center;">
@@ -107,8 +108,5 @@ categories: media
     <div>Motion Blur</div> 
   </div>
 </div>
-
-
-
 
 ## results
