@@ -1,11 +1,52 @@
 ---
-title:  "test"
+title:  "Dataset Composition"
 mathjax: true
 layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+
+<style>
+/* Add some style to the images */
+.images-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Adjust the gap between images */
+}
+
+.images-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Add some space between the images and the results section */
+.results-section {
+  margin-top: 20px; /* Adjust the top margin as needed */
+}
+</style>
+
+<div class="images-container">
+  <div style="text-align: center;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 300px;">
+    <div>Indoor / Outdoor</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/shark.gif" style="max-width: 300px;">
+    <div>Day / Night</div>
+  </div>
+</div>
+<div class="images-container">
+  <div style="text-align: center;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 300px;">
+    <div>Natural light / Artificial light / Both</div> 
+  </div>
+  <div style="text-align: center;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 300px;">
+    <div>Various actions of people</div> 
+  </div>
+</div>
+
 
 
 ## MathJax
