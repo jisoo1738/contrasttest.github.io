@@ -28,7 +28,7 @@ categories: media
 
 <div class="images-container">
   <div style="text-align: center;">
-    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif"">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif">
     <div>Indoor / Outdoor</div>
   </div>
   <div style="text-align: center;">
@@ -38,11 +38,11 @@ categories: media
 </div>
 <div class="images-container">
   <div style="text-align: center;">
-    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 350px;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" >
     <div>Natural light / Artificial light / Both</div> 
   </div>
   <div style="text-align: center;">
-    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 350px;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" >
     <div>Various actions of people</div> 
   </div>
 </div>
