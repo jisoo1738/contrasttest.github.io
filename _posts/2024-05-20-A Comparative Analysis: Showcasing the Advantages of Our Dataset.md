@@ -79,14 +79,21 @@ categories: media
   UDC-VIT comprises videos captured from real-world scenes, embodying authentic UDC degradations. In contrast, VidUDC33K consists of YouTube videos spanning diverse scenarios sourced from HDRi Haven, lacking realism due to synthetic degradation.
 </p>
 
+
+<div style="text-align: center;">
+  <h2>Transmittance Decrease</h2>
+</div>
+<div style="text-align: center;">
+  <h2>Noise</h2>
+</div>
 <div class="images-container">
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 230px;">
-    <div>Transmittance Decrease</div>
+    <div>UDC-VIT (ours)</div>
   </div>
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/shark.gif" style="max-width: 230px;">
-    <div>Noise</div>
+    <div>VidUDC33K</div>
   </div>
 </div>
 
