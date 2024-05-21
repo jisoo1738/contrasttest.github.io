@@ -1,8 +1,8 @@
 ---
-title:  "Real UDC Degradation"
+title: "Real UDC Degradation"
 layout: post
 categories: media
----
+--- 
 
 <style>
 /* Add some style to the table */
