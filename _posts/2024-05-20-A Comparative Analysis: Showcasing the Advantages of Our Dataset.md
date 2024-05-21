@@ -24,7 +24,7 @@ categories: media
 }
 
   table {
-    width: 110%;
+    width: 100%;
     border-collapse: collapse;
   }
   th, td {
