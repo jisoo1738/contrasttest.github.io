@@ -80,7 +80,7 @@ categories: media
 </p>
 
 <div style="text-align: center;">
-  <h2 style="color: #666;">Transmittance Decrease</h2>
+  <h2 style="color: #555;">Transmittance Decrease</h2>
 </div>
 <div class="images-container">
   <div style="text-align: center;">
