@@ -28,21 +28,21 @@ categories: media
 
 <div class="images-container">
   <div style="text-align: center;">
-    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 300px;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif"">
     <div>Indoor / Outdoor</div>
   </div>
   <div style="text-align: center;">
-    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/shark.gif" style="max-width: 300px;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/shark.gif" >
     <div>Day / Night</div>
   </div>
 </div>
 <div class="images-container">
   <div style="text-align: center;">
-    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 300px;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 350px;">
     <div>Natural light / Artificial light / Both</div> 
   </div>
   <div style="text-align: center;">
-    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 300px;">
+    <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 350px;">
     <div>Various actions of people</div> 
   </div>
 </div>
