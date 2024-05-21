@@ -54,7 +54,7 @@ categories: media
     <th> Frames per Video </th>
   </tr>
   <tr>
-    <td>UDC-VIT</td>
+    <td><strong>UDC-VIT</strong></td>
     <td>1060x1900</td>
     <td>60</td>
     <td>659</td>
@@ -74,13 +74,6 @@ categories: media
     <td>50</td>
   </tr>
 </table>
-
-
-
-
-
-
-
 
 <div class="images-container">
   <div style="text-align: center;">
