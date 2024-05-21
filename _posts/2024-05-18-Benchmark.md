@@ -24,7 +24,6 @@ categories: media
 }
 </style>
 
-
 <div class="images-container">
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" >
@@ -65,10 +64,6 @@ categories: media
     <div>Flare</div> 
   </div>
 </div>
-
-
-
-
 
 
 ## Benchmark
