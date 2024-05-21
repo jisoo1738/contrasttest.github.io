@@ -29,7 +29,7 @@ categories: media
   }
   th, td {
     border: none;
-    padding: 8px;
+    padding: 10px;
     text-align: center;
   }
   th {
