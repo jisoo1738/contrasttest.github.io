@@ -34,7 +34,12 @@ categories: media
   th {
     background-color: #f2f2f2;
   }
-
+.dataset-column {
+    width: 25%;
+  }
+  .resolution-column {
+    width: 15%;
+  }
 </style>
 
 <p style="color: #777;">
@@ -43,8 +48,8 @@ categories: media
 
 <table>
   <tr>
-    <th>Dataset</th>
-    <th>Resolution</th>
+    <th class="dataset-column">Dataset</th>
+    <th class="resolution-column">Resolution</th>
     <th>FPS</th>
     <th>Total Videos</th>
     <th>Train Videos</th>
@@ -53,8 +58,8 @@ categories: media
     <th>Frames per Video</th>
   </tr>
   <tr>
-    <td>UDC-VIT</td>
-    <td>1060x1900</td>
+    <td class="dataset-column">UDC-VIT</td>
+    <td class="resolution-column">1060x1900</td>
     <td>60</td>
     <td>659</td>
     <td>519</td>
@@ -63,8 +68,8 @@ categories: media
     <td>-</td>
   </tr>
   <tr>
-    <td>VidUDC33K</td>
-    <td>1080x1920</td>
+    <td class="dataset-column">VidUDC33K</td>
+    <td class="resolution-column">1080x1920</td>
     <td>-</td>
     <td>677</td>
     <td>627</td>
@@ -72,6 +77,7 @@ categories: media
     <td>50</td>
     <td>50</td>
   </tr>
+</table>
 </table>
 
 
