@@ -1,5 +1,5 @@
 ---
-title: "A Comparative Analysis: Showcasing the Advantages of Our Dataset"
+title: "A Comparative Analysis: <br>Showcasing the Advantages of Our Dataset"
 layout: post
 categories: media
 --- 
@@ -23,27 +23,19 @@ categories: media
   margin-top: 20px; /* Adjust the top margin as needed */
 }
 
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
+  table {
+    width: 110%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: none;
+    padding: 8px;
+    text-align: center;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
 
-th, td {
-  padding: 8px;
-  text-align: center;
-}
-
-th {
-  background-color: #f2f2f2;
-}
-
-.dataset-column {
-  width: 20%;
-}
-
-.resolution-column {
-  width: 15%;
-}
 </style>
 
 <p style="color: #777;">
@@ -52,8 +44,8 @@ th {
 
 <table>
   <tr>
-    <th class="dataset-column">Dataset</th>
-    <th class="resolution-column">Resolution</th>
+    <th>Dataset</th>
+    <th>Resolution</th>
     <th>FPS</th>
     <th>Total Videos</th>
     <th>Train Videos</th>
@@ -62,8 +54,8 @@ th {
     <th>Frames per Video</th>
   </tr>
   <tr>
-    <td class="dataset-column">UDC-VIT</td>
-    <td class="resolution-column">1060x1900</td>
+    <td>UDC-VIT</td>
+    <td>1060x1900</td>
     <td>60</td>
     <td>659</td>
     <td>519</td>
@@ -72,8 +64,8 @@ th {
     <td>-</td>
   </tr>
   <tr>
-    <td class="dataset-column">VidUDC33K</td>
-    <td class="resolution-column">1080x1920</td>
+    <td>VidUDC33K</td>
+    <td>1080x1920</td>
     <td>-</td>
     <td>677</td>
     <td>627</td>
