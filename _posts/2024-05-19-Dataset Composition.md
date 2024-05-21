@@ -28,6 +28,7 @@ categories: media
     border-collapse: collapse;
   }
   th, td {
+    border: none;
     padding: 8px;
     text-align: center;
   }
