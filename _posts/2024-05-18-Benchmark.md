@@ -27,41 +27,41 @@ categories: media
 <div class="images-container">
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" >
-    <div>Blur caused by the UDC panel</div> 
+    <div>Input</div> 
   </div>
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" >
-    <div>Motion Blur</div> 
+    <div>GT</div> 
   </div>
 </div>
 
 <div class="images-container">
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 230px;">
-    <div>Transmittance Decrease</div>
+    <div>EDVR</div>
   </div>
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/shark.gif" style="max-width: 230px;">
-    <div>Noise</div>
+    <div>ESTRNN</div>
   </div>
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 230px;">
-    <div>Flare</div> 
+    <div>model3</div> 
   </div>
 </div>
 
 <div class="images-container">
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 230px;">
-    <div>Transmittance Decrease</div>
+    <div>model4</div>
   </div>
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/shark.gif" style="max-width: 230px;">
-    <div>Noise</div>
+    <div>DISCNet</div>
   </div>
   <div style="text-align: center;">
     <img src="https://geonyeong-park.github.io/spectral-motion-alignment/static/gifs/long/penguins_swimming2/input.gif" style="max-width: 230px;">
-    <div>Flare</div> 
+    <div>UDCUNet</div> 
   </div>
 </div>
 
