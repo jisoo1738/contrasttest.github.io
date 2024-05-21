@@ -1,8 +1,8 @@
 ---
-title: "A Comparative Analysis: <br>Showcasing the Advantages of Our Dataset"
+title: "A Comparative Analysis: Showcasing the Advantages of Our Dataset"
 layout: post
 categories: media
----
+--- 
 
 <style>
 /* Add some style to the images */
@@ -26,11 +26,10 @@ categories: media
 table {
   width: 100%;
   border-collapse: collapse;
-  table-layout: fixed; /* Ensures cells are equally spaced */
 }
 
 th, td {
-  padding: 4px; /* Reduce padding to make cells tighter */
+  padding: 8px;
   text-align: center;
 }
 
@@ -39,7 +38,7 @@ th {
 }
 
 .dataset-column {
-  width: 25%;
+  width: 20%;
 }
 
 .resolution-column {
