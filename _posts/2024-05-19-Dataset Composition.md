@@ -24,12 +24,12 @@ categories: media
 }
 
   table {
-    width: 100%;
+/*     width: 100%; */
     border-collapse: collapse;
   }
   th, td {
     border: none;
-    padding: 8px;
+    padding: 0px;
     text-align: center;
   }
   th {
