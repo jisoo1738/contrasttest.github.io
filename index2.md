@@ -1,1 +1,34 @@
 
+---
+layout: default
+title: "Home2"
+---
+
+<br><br>
+<div style="text-align: center; font-size: 2em; font-weight: bold;">
+  UDC-VIT: A Real-World Video Dataset for Under-Display Cameras
+  리뷰어한테 배포하지 말라고 쓰기
+</div>
+
+<div style="text-align: center; font-size: 1.5em; font-weight: normal; color: #666;">
+  This is a description that appears in a slightly less bold color.
+<!--   <img src="videos/jiwon_wipe-ezgif.com-video-to-gif-converter.gif" style="max-width: 1200px;"> -->
+  <video width="800" controls loop="" muted = "" autoplay="">
+    <source src ="https://github.com/jisoo1738/contrasttest.github.io/raw/master/videos/jiwon_wipe.mov">
+  </video>
+</div>
+<div style="text-align: center; font-size: 1.2em; font-weight: 300; color: #888;">
+  The UDC-VIT dataset captures the movements of various subjects such as people and objects in<br>
+  both indoor and outdoor environments, capturing real-UDC degradations.
+</div>
+
+<br><br>
+<div style="text-align: center; font-size: 2em; font-weight: bold;">
+  RESULTS
+</div>
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts2" %}
+{% endif %}
